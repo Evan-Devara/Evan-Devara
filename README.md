@@ -33,6 +33,12 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Evan-Devara's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Evan-Devara&show_icons=true&hide_border=true" />
+
+</details>
 
 [youtube]: https://youtube.com/radicalpw
 [instagram]: https://instagram.com/evan_devara
