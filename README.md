@@ -7,7 +7,7 @@
 - 👯 I’m 19 years old
 - 📚 I love to learn new things
 - 🎮 I love playing game and making them also
-- 🥅 2021 Goals: Learn more and publish a mobile game
+- 🥅 2022 Goals: Learn more and publish a mobile game
 
 
 
